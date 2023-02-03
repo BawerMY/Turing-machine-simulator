@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+#str{
+    text-align: center;
+    background-color: #000000;
+    font-size: 40px;
+    height: 60px;
+}
+.cell{
+    background-color: #aaaaaa;
+    color: #ffffff;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    position: relative;
+    top: 10%;
+}
+[id="0"]{
+    background-color: #dddddd;
+}
